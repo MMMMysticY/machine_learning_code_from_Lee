@@ -18,3 +18,5 @@
 *.jpg
 *.zip
 *.rar
+
+/chapter5/DATA/rawdata/
